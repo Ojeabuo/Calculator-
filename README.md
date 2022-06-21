@@ -1,3 +1,3 @@
 # Calculator-
 Zuri simple arithmetic calculator task
-https://ojeabuo.github.io/Calculator-/
+https://ojeabuo.github.io/Calculator-/ GitHub page
